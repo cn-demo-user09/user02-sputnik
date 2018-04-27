@@ -12,5 +12,5 @@ spec:
       paths:
       - path: /$WERCKER_APPLICATION_OWNER_NAME/user02/
         backend:
-          serviceName: rest-sputnik-svc
+          serviceName: rest-sputnik-svc02
           servicePort: 8102
